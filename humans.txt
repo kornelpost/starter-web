@@ -1,7 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-Hi, I am modifiing the file before rebase
 
 Doing osme changes in Local.
 
@@ -9,8 +8,18 @@ Doing osme changes in Local.
 
     <name> Kornul Post <twitter>
     dupa@gmail.com
+
+
     DevOps Engineer Level III
     IT ORganization
+
+    DevOps Engineer LEvel III
+    IT Organization
+
+    DevOps Engineer Level III
+    IT ORganization
+
+
 
 # THANKS
 
@@ -21,4 +30,3 @@ Doing osme changes in Local.
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
     Docker, Java
-
