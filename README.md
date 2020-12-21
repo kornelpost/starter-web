@@ -10,9 +10,11 @@ A lot of lectures are already submitted
 
 This is the famous and one of the best Trainings Course of DevOps
 
+##Contribution
+Fork the repo and raise pull request for review
+
 ## Git comparision 
 Adding GIT Comparision 
 
 ## Github content
-
 REPO VS local
