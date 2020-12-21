@@ -1,16 +1,22 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+
 # TEAM
 
     <name> Kornul Post <twitter>
     dupa@gmail.com
+
 
     DevOps Engineer Level III
     IT ORganization
 
     DevOps Engineer LEvel III
     IT Organization
+
+    DevOps Engineer Level III
+    IT ORganization
+
 
 
 # THANKS
@@ -22,4 +28,3 @@
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
     Docker, Java
-
