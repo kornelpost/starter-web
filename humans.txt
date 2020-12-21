@@ -1,8 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-Hi, I am modifiing the file before rebase
-
 # TEAM
 
     <name> Kornul Post <twitter>
