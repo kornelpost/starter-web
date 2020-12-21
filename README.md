@@ -17,6 +17,7 @@ Fork the repo and raise pull request for review
 
 ## Git comparision 
 Adding GIT Comparision 
+Adding new lectures of Stash
 
 ## Github content
 REPO VS local
