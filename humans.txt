@@ -5,8 +5,13 @@
 
     <name> Kornul Post <twitter>
     dupa@gmail.com
+
     DevOps Engineer Level III
     IT ORganization
+
+    DevOps Engineer LEvel III
+    IT Organization
+
 
 # THANKS
 
