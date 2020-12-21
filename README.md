@@ -4,7 +4,8 @@ This is git project, which we are using as Sample Project
 
 ## Introduction
 
-A lot of lectures are already submitted
+A lot of lectures are already submitted.
+And a lot of lectures are still coming on.
 
 ## Devops Training
 
