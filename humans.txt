@@ -5,7 +5,7 @@
 
     <name> Kornul Post <twitter>
     dupa@gmail.com
-    SDETIII . DevOps Engineer
+    SDETIII . DevOps Engineer w dupke
 
 # THANKS
 
@@ -15,3 +15,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+    Dupa, Cycki
