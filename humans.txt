@@ -7,7 +7,8 @@ Hi, I am modifiing the file before rebase
 
     <name> Kornul Post <twitter>
     dupa@gmail.com
-    DevOps Engineer
+    DevOps Engineer Level III
+    IT ORganization
 
 # THANKS
 
