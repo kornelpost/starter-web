@@ -4,10 +4,12 @@
 # TEAM
 
     <name> Kornul Post <twitter>
+    dupa@gmail.com
+    SDETIII . DevOps Engineer
 
 # THANKS
 
-    <name>
+    Agatka Smuga
 
 # TECHNOLOGY COLOPHON
 
