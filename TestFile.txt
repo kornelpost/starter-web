@@ -1,1 +1,1 @@
-todays news
+This is git tag commit. todays news
