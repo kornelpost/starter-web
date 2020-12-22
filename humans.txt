@@ -30,3 +30,4 @@ Doing osme changes in Local.
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
     Docker, Java
+    AWS Solution Architect Developer
